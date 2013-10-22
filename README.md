@@ -27,7 +27,8 @@ Start the server:
 
     cd Board-War
     node boardwar.js -c path-to-game-config [-p port] [-d]
-
+    
+    note: all game paths except 'squares' are currently missing img & css files 
 Connect from the browser:
 
     http://server-uri/
